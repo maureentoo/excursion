@@ -1,0 +1,12 @@
+#large-title {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+html {
+  background-color: black;
+  text-align: center;
+  }
+  * {
+    Font-family: verdana;
+  }
