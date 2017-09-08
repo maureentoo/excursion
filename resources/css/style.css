@@ -1,4 +1,4 @@
-#large-title {
+h1 {
   font-size: 50px;
 }
 html {
@@ -16,4 +16,13 @@ a {
 h2 {
   font-size: 42px;
   font-weight: 300;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+#footer {
+  text-align: right;
+  color: gray;
+  font-size: 18px;
 }
